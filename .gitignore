@@ -1,3 +1,6 @@
 #git igonore public key file
 practice.pub
 *pub
+#ignore all the vscode configuration files inside .vscode folder
+.vscode/*
+
